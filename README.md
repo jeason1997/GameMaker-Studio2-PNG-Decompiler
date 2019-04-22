@@ -1,3 +1,5 @@
+## 这个是真的能用于解包 GMS2 图片的，用法：  ./gms_assets -f 'data.win'所在的文件夹路径
+
 gms-assets
 ==========
 `gms-assets` is **GameMaker Studio** *PNG* asset extractor/decompiler/dumper.
